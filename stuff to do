@@ -1,0 +1,47 @@
+Import: 
+Java.awt.*.
+java.awt.event.*;
+Java.util.*;
+Java.swing.*;
+
+public classtLight
+extendTframe implements
+item{rbutton123
+creative field
+J text field
+J1 = mewJ text field
+ButtonGroupb= new button
+String message
+
+x, y, and z axis
+integer x=0 and y=0, z=0
+public class ; TLight (String wsg)
+super message 
+setLayout (NewFlowLayOut)
+SetLayOut(newFlowLayout())
+rButton1, 2, 3 = JRaio Button
+rButton1= newJRadiobutton("Red")
+rButton2= newJRadiobutton("Yellow")
+rButton3= newRadiobutton("Green")
+jr1.addItemlistener(this);
+jr2.addItemlistener(this)
+
+add(jr1)
+(jr2)
+(jr3)
+b.add(jr1)
+(jr2)
+(Jr3)
+add(d1)
+
+
+addWindowlistener(newWindowAdapter{
+Public void wwindow closer
+(windowevent)}
+stopsign
+myStop.exit lo);
+}
+});
+}
+
+//Search with If statements to change lights
